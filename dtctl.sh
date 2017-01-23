@@ -1,9 +1,4 @@
 
-#cp -ri DTENShare.app /Applications/DTENShare.app
-
-#cd /Contents/Resource
-
-
 
 cp "dtensvc" "/Library/Application Support/"
 cp "com.drivercoding.dtensvc.plist" "/Library/LaunchDaemons"
